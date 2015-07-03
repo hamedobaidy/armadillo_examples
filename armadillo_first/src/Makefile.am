@@ -1,0 +1,4 @@
+bin_PROGRAMS=armadillo_first
+armadillo_first_SOURCES=armadillo_first.cpp
+
+armadillo_first_LDADD= -larmadillo
