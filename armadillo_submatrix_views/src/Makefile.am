@@ -1,0 +1,6 @@
+AM_CXXFLAGS = -std=c++11
+
+bin_PROGRAMS=armadillo_submatrix_views
+armadillo_submatrix_views_SOURCES=armadillo_submatrix_views.cpp
+
+armadillo_submatrix_views_LDADD=-larmadillo
