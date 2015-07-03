@@ -1,0 +1,4 @@
+bin_PROGRAMS=armadillo_operators
+armadillo_operators_SOURCES=armadillo_operators.cpp
+
+armadillo_operators_LDADD=-larmadillo
