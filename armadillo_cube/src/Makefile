@@ -247,7 +247,7 @@ target_vendor = unknown
 top_build_prefix = ../
 top_builddir = ..
 top_srcdir = ..
-AMCXXFLAGS = -std=c++1
+AM_CXXFLAGS = -std=c++1
 armadillo_cube_SOURCES = armadillo_cube.cpp
 armadillo_cube_LDADD = -larmadillo
 all: all-am
