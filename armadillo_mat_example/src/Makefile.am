@@ -1,4 +1,0 @@
-bin_PROGRAMS=mat_example
-mat_example_SOURCES=mat_example.cpp
-
-mat_example_LDADD= -larmadillo
