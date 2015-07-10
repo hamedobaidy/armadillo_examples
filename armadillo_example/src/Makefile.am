@@ -1,4 +1,0 @@
-bin_PROGRAMS=armadillo_example
-armadillo_example_SOURCES=armadillo_example.cpp
-
-armadillo_example_LDADD=-larmadillo
