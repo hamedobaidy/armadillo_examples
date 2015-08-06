@@ -4,7 +4,7 @@
  Author      : Hamed Mohammadi
  Version     :
  Copyright   : GNU General Public License
- Description : Hello World in C++,
+ Description : Armadillo row example.
  ============================================================================
  */
 
